@@ -18,3 +18,9 @@
 
 ## DB
 ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,cs,figma,flutter,ai,js,ps,postman,xd" />
+  </a>
+</p>
