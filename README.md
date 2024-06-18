@@ -4,7 +4,7 @@
 ## Front-end
 [![My Skills](https://skillicons.dev/icons?i=sass,&theme=dark)](https://skillicons.dev)
 #### Learning
-[![My Skills](https://skillicons.dev/icons?i=angular,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,lua,nodejs,react,&theme=dark)](https://skillicons.dev)
 
 ## Back-end
 [![My Skills](https://skillicons.dev/icons?i=cs,&theme=dark)](https://skillicons.dev)
